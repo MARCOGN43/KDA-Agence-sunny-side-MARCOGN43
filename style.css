@@ -20,7 +20,7 @@ body, html {
 /* HEADER CODE */
 
 header {
-    background-image: url("D:/KADEA/agence-sunnyside/desktop/image-header.jpg");
+    background-image: url("/desktop/image-header.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;
@@ -139,7 +139,7 @@ header ul {
 }
 
 .image-container-s1 {
-    background-image: url("D:/KADEA/agence-sunnyside/desktop/image-transform.jpg");
+    background-image: url("/desktop/image-transform.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: bottom;
@@ -153,7 +153,7 @@ header ul {
 }
 
 .image-container-s2 {
-    background-image: url("D:/KADEA/agence-sunnyside/desktop/image-stand-out.jpg");
+    background-image: url("/desktop/image-stand-out.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: bottom;
@@ -167,7 +167,7 @@ header ul {
 }
 
 .image-container-s3a {
-    background-image: url("D:/KADEA/agence-sunnyside/desktop/image-graphic-design.jpg");
+    background-image: url("/desktop/image-graphic-design.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: bottom;
@@ -181,7 +181,7 @@ header ul {
 }
 
 .image-container-s3b {
-    background-image: url("D:/KADEA/agence-sunnyside/desktop/image-photography.jpg");
+    background-image: url("/desktop/image-photography.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: bottom;
@@ -294,7 +294,7 @@ header ul {
     padding: 0 150px;
     height: 589.16px;
     max-width: 50%;
-    background-image: url("D:/KADEA/agence-sunnyside/desktop/image-graphic-design.jpg");
+    background-image: url("/desktop/image-graphic-design.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;
@@ -331,7 +331,7 @@ header ul {
     padding: 0 150px;
     height: 589.16px;
     max-width: 50%;
-    background-image: url("D:/KADEA/agence-sunnyside/desktop/image-photography.jpg");
+    background-image: url("/desktop/image-photography.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;
@@ -591,7 +591,7 @@ footer ul {
 
 @media only screen and (max-width: 943px) {
     header {
-        background-image: url("D:/KADEA/agence-sunnyside/mobile/image-header.jpg");
+        background-image: url("/mobile/image-header.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: bottom;
@@ -612,7 +612,7 @@ footer ul {
     }
     
     .image-container-s1 {
-        background-image: url("D:/KADEA/agence-sunnyside/mobile/image-transform.jpg");
+        background-image: url("/mobile/image-transform.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: bottom;
@@ -626,7 +626,7 @@ footer ul {
     }
     
     .image-container-s2 {
-        background-image: url("D:/KADEA/agence-sunnyside/mobile/image-stand-out.jpg");
+        background-image: url("/mobile/image-stand-out.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: bottom;
@@ -640,7 +640,7 @@ footer ul {
     }
 
     .image-container-s3a {
-        background-image: url("D:/KADEA/agence-sunnyside/mobile/image-graphic-design.jpg");
+        background-image: url("/mobile/image-graphic-design.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: top;
@@ -654,7 +654,7 @@ footer ul {
     }
 
     .image-container-s3b {
-        background-image: url("D:/KADEA/agence-sunnyside/mobile/image-photography.jpg");
+        background-image: url("/mobile/image-photography.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: top;
@@ -893,7 +893,7 @@ footer ul {
         display: block;
         width: 100%;
         height: 4px;
-        background-image: url("D:/KADEA/agence-sunnyside/svg/icon-hamburger.svg");
+        background-image: url("/svg/icon-hamburger.svg");
         margin: 6px 0;
         transition: 0.4s;
     }
@@ -914,7 +914,7 @@ footer ul {
     .menu a {
         text-decoration: none;
         padding: 2vh;
-        background-image: url("D:/KADEA/agence-sunnyside/svg/icon-hamburger.svg");
+        background-image: url("/svg/icon-hamburger.svg");
         display: block;
         width: 100%;
         text-align: center;
